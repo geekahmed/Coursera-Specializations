@@ -12,6 +12,8 @@
 
 **Note:- This course doesn't contain any assignment**
 
+**[Link to certificate](https://www.coursera.org/account/accomplishments/certificate/K5DUJFDBTU7P)**
+
 ### Course 2 - Introduction to CSS3
 
 ###### Description
@@ -19,9 +21,11 @@
 
 **Assignment:-**
 
-* [Week 1]()
-* [Week 2]()
-* [Week 4]()
+* [Week 1](https://github.com/geekahmed/Coursera-Specializations/tree/master/Web-Design-for-Everybody-Basics-of-Web-Development-Coding/Introduction-to-CSS3/Week1)
+* [Week 2](https://github.com/geekahmed/Coursera-Specializations/tree/master/Web-Design-for-Everybody-Basics-of-Web-Development-Coding/Introduction-to-CSS3/Week2)
+* [Week 4](https://github.com/geekahmed/Coursera-Specializations/tree/master/Web-Design-for-Everybody-Basics-of-Web-Development-Coding/Introduction-to-CSS3/Week4)
+
+**[Link to certificate](https://www.coursera.org/account/accomplishments/certificate/F85SQZ3A4PKU)**
 
 ### Course 3 - Interactivity with JavaScript
 
@@ -30,8 +34,17 @@
 
 **Assignment:-**
 
-* [Week 2]()
-* [Week 3]()
+* [Week 2](https://github.com/geekahmed/Coursera-Specializations/tree/master/Web-Design-for-Everybody-Basics-of-Web-Development-Coding/Interactivity-with-JavaScript/Week2)
+* [Week 4](https://github.com/geekahmed/Coursera-Specializations/tree/master/Web-Design-for-Everybody-Basics-of-Web-Development-Coding/Interactivity-with-JavaScript/Week4)
 
+**[Link to certificate](https://www.coursera.org/account/accomplishments/certificate/4RSXKACP7WY7)**
+
+### Course 4 - Advanced Styling with Responsive Design
+
+###### Description
+>This is the fourth course in the Web Design For Everybody Specialization. This course is the upgraded version of course 2, it deals with advance styling of page like making responsive designs using media-queries.
+
+**[Link to certificate](https://www.coursera.org/account/accomplishments/certificate/4U97FL6CC49Q)**
 
 **_Recommended Course for Beginners in Web Development_**
+

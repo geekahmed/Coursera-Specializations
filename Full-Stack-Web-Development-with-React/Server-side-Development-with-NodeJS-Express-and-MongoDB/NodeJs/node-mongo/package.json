@@ -8,5 +8,9 @@
     "start": "node index"
   },
   "author": "Ahmed Moustafa",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "mongodb": "^3.0.10"
+  }
 }
